@@ -73,4 +73,4 @@ Contains demographic and segmentation data for registered marketplace buyers.
 
 
 
-docs: add data dictionary
+
